@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit With Local Host</string>
+    <string name="register_here">Register Here</string>
+    <string name="register">Register</string>
+</resources>
